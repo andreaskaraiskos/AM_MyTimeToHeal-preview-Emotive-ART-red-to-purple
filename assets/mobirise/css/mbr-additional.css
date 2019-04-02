@@ -3203,26 +3203,29 @@ body {
 .cid-rlWms7mcIo .dropdown-item:hover {
   color: #3b1d47 !important;
 }
-.cid-rl4WcTG03U {
+.cid-rmtWjEm2dK {
   padding-top: 120px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/am-mytimetoheal-emotive-background-1600x1116.jpg");
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/empfindung-rs-1920-mod-1512x1080.jpg");
 }
-.cid-rl4WcTG03U H2 {
+.cid-rmtWjEm2dK H2 {
   text-align: left;
+  color: #ffffff;
 }
-.cid-rl4WcTG03U .mbr-text {
+.cid-rmtWjEm2dK .mbr-text {
   text-align: left;
+  color: #ffffff;
 }
-.cid-rl4WcTG03U .mbr-section-subtitle {
+.cid-rmtWjEm2dK .mbr-section-subtitle {
   text-align: left;
+  color: #ffffff;
 }
-.cid-rl4WcTG03U SPAN {
+.cid-rmtWjEm2dK SPAN {
   color: #3b1d47;
 }
 .cid-rlti77M56m {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
   background-image: url("../../../assets/images/artboard-14x-2000x2828.png");
 }
@@ -3239,9 +3242,21 @@ body {
 .cid-rlti77M56m FONT {
   color: #767676;
 }
+.cid-rmtY7zwWft {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #e5dfe7;
+}
+.cid-rmtY7zwWft .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmtY7zwWft H2 {
+  color: #2b0d38;
+  text-align: left;
+}
 .cid-rkqehV412z {
   padding-top: 30px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-rkqehV412z .counter-container {
@@ -3258,7 +3273,7 @@ body {
 }
 .cid-rkrnh1WNJz {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rkrnh1WNJz .mbr-text,
@@ -3268,7 +3283,7 @@ body {
 .cid-rkrnqn43nP {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #e5dfe7;
 }
 .cid-rkrnqn43nP .mbr-section-subtitle {
   color: #767676;
@@ -3286,43 +3301,80 @@ body {
 .cid-rkrnx6Lb4l blockquote {
   color: #767676;
 }
-.cid-rltynYR6mS {
+.cid-rkrnx6Lb4l .mbr-text P {
+  text-align: left;
+}
+.cid-rmu31hmsUy {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rmu31hmsUy .mbr-text,
+.cid-rmu31hmsUy blockquote {
+  color: #767676;
+}
+.cid-rmu31hmsUy .mbr-text P {
+  text-align: center;
+  color: #ff3366;
+}
+.cid-rmu30UndPt {
+  background: #efefef;
+  padding-top: 0px;
+  padding-bottom: 45px;
+}
+.cid-rmu30UndPt .image-block {
+  margin: auto;
+}
+.cid-rmu30UndPt figcaption {
+  position: relative;
+}
+.cid-rmu30UndPt figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rmu30UndPt .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rmu304PE0X {
   padding-top: 30px;
   padding-bottom: 15px;
   background-image: url("../../../assets/images/am-damask-art-duotone-with-logo-bg75-damask50-2000x2499.png");
 }
 @media (max-width: 767px) {
-  .cid-rltynYR6mS .content {
+  .cid-rmu304PE0X .content {
     text-align: center;
   }
-  .cid-rltynYR6mS .content > div:not(:last-child) {
+  .cid-rmu304PE0X .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 7670px) {
-  .cid-rltynYR6mS .media-wrap {
+  .cid-rmu304PE0X .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rltynYR6mS .media-wrap .mbr-iconfont-logo {
+.cid-rmu304PE0X .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rltynYR6mS .media-wrap img {
+.cid-rmu304PE0X .media-wrap img {
   height: 8rem;
 }
 @media (max-width: 767px) {
-  .cid-rltynYR6mS .footer-lower .copyright {
+  .cid-rmu304PE0X .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rltynYR6mS .footer-lower hr {
+.cid-rmu304PE0X .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rltynYR6mS .footer-lower .social-list {
+.cid-rmu304PE0X .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -3332,44 +3384,44 @@ body {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-rltynYR6mS .footer-lower .social-list .mbr-iconfont-social {
+.cid-rmu304PE0X .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rltynYR6mS .footer-lower .social-list .soc-item {
+.cid-rmu304PE0X .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rltynYR6mS .footer-lower .social-list a {
+.cid-rmu304PE0X .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rltynYR6mS .footer-lower .social-list a:hover {
+.cid-rmu304PE0X .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rltynYR6mS .footer-lower .social-list {
+  .cid-rmu304PE0X .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rltynYR6mS B {
+.cid-rmu304PE0X B {
   color: #ffffff;
 }
-.cid-rltynYR6mS .copyright > p {
+.cid-rmu304PE0X .copyright > p {
   color: #8d629e;
   text-align: left;
 }
-.cid-rltynYR6mS H5 {
+.cid-rmu304PE0X H5 {
   color: #8d629e;
   text-align: left;
 }
-.cid-rltynYR6mS P {
+.cid-rmu304PE0X P {
   color: #8d629e;
   text-align: left;
 }
-.cid-rltynYR6mS A {
+.cid-rmu304PE0X A {
   color: #ffffff;
 }
 .cid-rlWmlsHp9r .navbar {
@@ -3766,11 +3818,11 @@ body {
 }
 .cid-rkqiJwhOxg {
   padding-top: 135px;
-  padding-bottom: 30px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-rkqiJwhOxg H3 {
-  color: #2b0d38;
+  color: #ffffff;
   text-align: left;
 }
 .cid-rkqiJwhOxg .mbr-text,
@@ -3780,6 +3832,7 @@ body {
 }
 .cid-rkqiJwhOxg H1 {
   color: #2b0d38;
+  text-align: left;
 }
 .cid-rkqCCeMfcz {
   padding-top: 45px;
